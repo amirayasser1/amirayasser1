@@ -33,10 +33,6 @@
 ###
 
 <div align="left">
-  <!-- Discord -->
-  <a href="[amirayasser_](https://discord.com/channels/@me)" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord Logo" />
-  </a>
 
   <!-- Gmail -->
   <a href="mailto:amiray572@gmail.com" target="_blank">
