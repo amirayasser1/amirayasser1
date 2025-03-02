@@ -49,7 +49,7 @@
 
 <br clear="both">
 
-
+<img src="https://cdn-icons-png.flaticon.com/512/7322/7322838.png" width="50" alt="Science Report Icon" />
 
 
 ###
